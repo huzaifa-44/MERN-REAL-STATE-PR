@@ -10,7 +10,7 @@ export default function Header() {
             <span className='text-green-600'>State</span>
         </h1>
         </Link>
-        <form className='bg-slate-100 p-3 rounded-lg flex items-center'> 
+        <form className='bg-slate-100 p-3 rounded-full flex items-center'> 
             <input type='text' 
             placeholder='Serch...' 
             className='bg-transparent focus:outline-none w-24 sm:w-64' 
